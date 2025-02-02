@@ -1,0 +1,5 @@
+/* src/components/SearchBar.css */
+.input::placeholder {
+    color: #9AA0A6; /* Couleur grise pour le placeholder */
+    opacity: 1; /* Assure que la couleur est pleinement appliquée */
+}
